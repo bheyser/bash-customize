@@ -1,0 +1,8 @@
+
+#######  bash-customize  ###########################
+
+if [ -f /opt/bash-customize/bash-customize ]; then
+. /opt/bash-customize/bash-customize
+fi
+
+####################################################
